@@ -3,6 +3,7 @@ h1 {
     background-color: #f07f7f80;
     font-size: 54px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 8px;
 }
 
 .title {
@@ -11,6 +12,13 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.bananachocolatechipbread {
+    padding-bottom: 8px;
+}
+
+.buttermilkpancakes{
+    padding-bottom: 8px;
+}
 img {
     margin-left: auto;
     margin-right: auto;
